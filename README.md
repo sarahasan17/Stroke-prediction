@@ -1,4 +1,4 @@
-#STROKE PREDICTION
+# STROKE PREDICTION
 Predicting strokes using machine learning classification models is a critical application in healthcare, as it can help identify individuals at risk and facilitate timely medical intervention. In your scenario, different classification models were used to predict strokes, with varying levels of accuracy. Let's delve into this in more detail:
 ## Kernel Support Vector Machine (Kernel SVM), Logistic Regression, and Support Vector Machine (SVM):
 Accuracy: 94.9%
